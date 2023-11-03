@@ -9,8 +9,14 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@turf/turf": "^6.5.0",
+    "firebase": "^10.5.2",
+    "next": "14.0.1",
+    "primeflex": "^3.3.1",
+    "primeicons": "^6.0.1",
+    "primereact": "^10.0.9",
     "react": "^18",
     "react-dom": "^18",
-    "next": "14.0.1"
+    "react-leaflet": "^4.2.1"
   }
 }
